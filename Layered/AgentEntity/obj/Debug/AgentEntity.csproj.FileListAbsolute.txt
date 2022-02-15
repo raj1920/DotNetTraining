@@ -1,0 +1,5 @@
+E:\Project\Day5\Layered\AgentEntity\bin\Debug\AgentEntity.dll
+E:\Project\Day5\Layered\AgentEntity\bin\Debug\AgentEntity.pdb
+E:\Project\Day5\Layered\AgentEntity\obj\Debug\AgentEntity.csproj.CoreCompileInputs.cache
+E:\Project\Day5\Layered\AgentEntity\obj\Debug\AgentEntity.dll
+E:\Project\Day5\Layered\AgentEntity\obj\Debug\AgentEntity.pdb

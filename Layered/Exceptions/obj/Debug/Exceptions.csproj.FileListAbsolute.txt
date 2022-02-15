@@ -1,0 +1,5 @@
+E:\Project\Day5\Layered\Exceptions\bin\Debug\Exceptions.dll
+E:\Project\Day5\Layered\Exceptions\bin\Debug\Exceptions.pdb
+E:\Project\Day5\Layered\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+E:\Project\Day5\Layered\Exceptions\obj\Debug\Exceptions.dll
+E:\Project\Day5\Layered\Exceptions\obj\Debug\Exceptions.pdb

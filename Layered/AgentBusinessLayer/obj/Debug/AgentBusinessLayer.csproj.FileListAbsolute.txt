@@ -1,0 +1,13 @@
+E:\Project\Day5\Layered\AgentBusinessLayer\bin\Debug\AgentBusinessLayer.dll
+E:\Project\Day5\Layered\AgentBusinessLayer\bin\Debug\AgentBusinessLayer.pdb
+E:\Project\Day5\Layered\AgentBusinessLayer\bin\Debug\AgentEntity.dll
+E:\Project\Day5\Layered\AgentBusinessLayer\bin\Debug\EmployDataLayer.dll
+E:\Project\Day5\Layered\AgentBusinessLayer\bin\Debug\Exceptions.dll
+E:\Project\Day5\Layered\AgentBusinessLayer\bin\Debug\AgentEntity.pdb
+E:\Project\Day5\Layered\AgentBusinessLayer\bin\Debug\EmployDataLayer.pdb
+E:\Project\Day5\Layered\AgentBusinessLayer\bin\Debug\Exceptions.pdb
+E:\Project\Day5\Layered\AgentBusinessLayer\obj\Debug\AgentBusinessLayer.csproj.AssemblyReference.cache
+E:\Project\Day5\Layered\AgentBusinessLayer\obj\Debug\AgentBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Project\Day5\Layered\AgentBusinessLayer\obj\Debug\AgentBusinessLayer.csproj.CopyComplete
+E:\Project\Day5\Layered\AgentBusinessLayer\obj\Debug\AgentBusinessLayer.dll
+E:\Project\Day5\Layered\AgentBusinessLayer\obj\Debug\AgentBusinessLayer.pdb

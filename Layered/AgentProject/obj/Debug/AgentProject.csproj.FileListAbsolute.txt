@@ -1,0 +1,17 @@
+E:\Project\Day5\Layered\AgentProject\bin\Debug\AgentProject.exe.config
+E:\Project\Day5\Layered\AgentProject\bin\Debug\AgentProject.exe
+E:\Project\Day5\Layered\AgentProject\bin\Debug\AgentProject.pdb
+E:\Project\Day5\Layered\AgentProject\bin\Debug\AgentBusinessLayer.dll
+E:\Project\Day5\Layered\AgentProject\bin\Debug\AgentEntity.dll
+E:\Project\Day5\Layered\AgentProject\bin\Debug\EmployDataLayer.dll
+E:\Project\Day5\Layered\AgentProject\bin\Debug\Exceptions.dll
+E:\Project\Day5\Layered\AgentProject\bin\Debug\AgentBusinessLayer.pdb
+E:\Project\Day5\Layered\AgentProject\bin\Debug\AgentEntity.pdb
+E:\Project\Day5\Layered\AgentProject\bin\Debug\EmployDataLayer.pdb
+E:\Project\Day5\Layered\AgentProject\bin\Debug\Exceptions.pdb
+E:\Project\Day5\Layered\AgentProject\obj\Debug\AgentProject.csproj.AssemblyReference.cache
+E:\Project\Day5\Layered\AgentProject\obj\Debug\AgentProject.csproj.SuggestedBindingRedirects.cache
+E:\Project\Day5\Layered\AgentProject\obj\Debug\AgentProject.csproj.CoreCompileInputs.cache
+E:\Project\Day5\Layered\AgentProject\obj\Debug\AgentProject.csproj.CopyComplete
+E:\Project\Day5\Layered\AgentProject\obj\Debug\AgentProject.exe
+E:\Project\Day5\Layered\AgentProject\obj\Debug\AgentProject.pdb
