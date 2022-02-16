@@ -1,0 +1,7 @@
+E:\Project\Day4\Project\customExcep2\obj\Debug\customExcep2.csproj.SuggestedBindingRedirects.cache
+E:\Project\Day4\Project\customExcep2\obj\Debug\customExcep2.csproj.CoreCompileInputs.cache
+E:\Project\Day4\Project\customExcep2\bin\Debug\customExcep2.exe.config
+E:\Project\Day4\Project\customExcep2\bin\Debug\customExcep2.exe
+E:\Project\Day4\Project\customExcep2\bin\Debug\customExcep2.pdb
+E:\Project\Day4\Project\customExcep2\obj\Debug\customExcep2.exe
+E:\Project\Day4\Project\customExcep2\obj\Debug\customExcep2.pdb

@@ -1,0 +1,8 @@
+E:\Project\Day4\Project\CustomExcephan\bin\Debug\CustomExcephan.exe.config
+E:\Project\Day4\Project\CustomExcephan\bin\Debug\CustomExcephan.exe
+E:\Project\Day4\Project\CustomExcephan\bin\Debug\CustomExcephan.pdb
+E:\Project\Day4\Project\CustomExcephan\obj\Debug\CustomExcephan.csproj.AssemblyReference.cache
+E:\Project\Day4\Project\CustomExcephan\obj\Debug\CustomExcephan.csproj.SuggestedBindingRedirects.cache
+E:\Project\Day4\Project\CustomExcephan\obj\Debug\CustomExcephan.csproj.CoreCompileInputs.cache
+E:\Project\Day4\Project\CustomExcephan\obj\Debug\CustomExcephan.exe
+E:\Project\Day4\Project\CustomExcephan\obj\Debug\CustomExcephan.pdb

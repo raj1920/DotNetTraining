@@ -1,0 +1,7 @@
+E:\Project\Day4\Project\FileExample2\bin\Debug\FileExample2.exe.config
+E:\Project\Day4\Project\FileExample2\bin\Debug\FileExample2.exe
+E:\Project\Day4\Project\FileExample2\bin\Debug\FileExample2.pdb
+E:\Project\Day4\Project\FileExample2\obj\Debug\FileExample2.csproj.SuggestedBindingRedirects.cache
+E:\Project\Day4\Project\FileExample2\obj\Debug\FileExample2.csproj.CoreCompileInputs.cache
+E:\Project\Day4\Project\FileExample2\obj\Debug\FileExample2.exe
+E:\Project\Day4\Project\FileExample2\obj\Debug\FileExample2.pdb

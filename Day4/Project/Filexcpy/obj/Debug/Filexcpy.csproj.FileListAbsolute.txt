@@ -1,0 +1,8 @@
+E:\Project\Day4\Project\Filexcpy\bin\Debug\Filexcpy.exe.config
+E:\Project\Day4\Project\Filexcpy\bin\Debug\Filexcpy.exe
+E:\Project\Day4\Project\Filexcpy\bin\Debug\Filexcpy.pdb
+E:\Project\Day4\Project\Filexcpy\obj\Debug\Filexcpy.csproj.AssemblyReference.cache
+E:\Project\Day4\Project\Filexcpy\obj\Debug\Filexcpy.csproj.SuggestedBindingRedirects.cache
+E:\Project\Day4\Project\Filexcpy\obj\Debug\Filexcpy.csproj.CoreCompileInputs.cache
+E:\Project\Day4\Project\Filexcpy\obj\Debug\Filexcpy.exe
+E:\Project\Day4\Project\Filexcpy\obj\Debug\Filexcpy.pdb

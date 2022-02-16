@@ -1,0 +1,8 @@
+E:\Project\Day4\Project\ExDemo\bin\Debug\ExDemo.exe.config
+E:\Project\Day4\Project\ExDemo\bin\Debug\ExDemo.exe
+E:\Project\Day4\Project\ExDemo\bin\Debug\ExDemo.pdb
+E:\Project\Day4\Project\ExDemo\obj\Debug\ExDemo.csproj.AssemblyReference.cache
+E:\Project\Day4\Project\ExDemo\obj\Debug\ExDemo.csproj.SuggestedBindingRedirects.cache
+E:\Project\Day4\Project\ExDemo\obj\Debug\ExDemo.csproj.CoreCompileInputs.cache
+E:\Project\Day4\Project\ExDemo\obj\Debug\ExDemo.exe
+E:\Project\Day4\Project\ExDemo\obj\Debug\ExDemo.pdb

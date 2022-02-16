@@ -1,0 +1,13 @@
+E:\Project\Day4\Project\EmployBusinessLayer\bin\Debug\EmployBusinessLayer.dll
+E:\Project\Day4\Project\EmployBusinessLayer\bin\Debug\EmployBusinessLayer.pdb
+E:\Project\Day4\Project\EmployBusinessLayer\bin\Debug\EmployDataLayer.dll
+E:\Project\Day4\Project\EmployBusinessLayer\bin\Debug\EmployEntity.dll
+E:\Project\Day4\Project\EmployBusinessLayer\bin\Debug\Exceptions.dll
+E:\Project\Day4\Project\EmployBusinessLayer\bin\Debug\EmployDataLayer.pdb
+E:\Project\Day4\Project\EmployBusinessLayer\bin\Debug\EmployEntity.pdb
+E:\Project\Day4\Project\EmployBusinessLayer\bin\Debug\Exceptions.pdb
+E:\Project\Day4\Project\EmployBusinessLayer\obj\Debug\EmployBusinessLayer.csproj.AssemblyReference.cache
+E:\Project\Day4\Project\EmployBusinessLayer\obj\Debug\EmployBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Project\Day4\Project\EmployBusinessLayer\obj\Debug\EmployBusinessLayer.csproj.CopyComplete
+E:\Project\Day4\Project\EmployBusinessLayer\obj\Debug\EmployBusinessLayer.dll
+E:\Project\Day4\Project\EmployBusinessLayer\obj\Debug\EmployBusinessLayer.pdb

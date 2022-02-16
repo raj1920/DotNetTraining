@@ -1,0 +1,9 @@
+E:\Project\Day4\Project\EmployDataLayer\bin\Debug\EmployDataLayer.dll
+E:\Project\Day4\Project\EmployDataLayer\bin\Debug\EmployDataLayer.pdb
+E:\Project\Day4\Project\EmployDataLayer\bin\Debug\EmployEntity.dll
+E:\Project\Day4\Project\EmployDataLayer\bin\Debug\EmployEntity.pdb
+E:\Project\Day4\Project\EmployDataLayer\obj\Debug\EmployDataLayer.csproj.AssemblyReference.cache
+E:\Project\Day4\Project\EmployDataLayer\obj\Debug\EmployDataLayer.csproj.CoreCompileInputs.cache
+E:\Project\Day4\Project\EmployDataLayer\obj\Debug\EmployDataLayer.csproj.CopyComplete
+E:\Project\Day4\Project\EmployDataLayer\obj\Debug\EmployDataLayer.dll
+E:\Project\Day4\Project\EmployDataLayer\obj\Debug\EmployDataLayer.pdb

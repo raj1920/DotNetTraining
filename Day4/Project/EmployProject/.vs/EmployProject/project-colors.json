@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8f5da5bd-4db6-4cfa-b7e1-3465dac412a6": {
+      "ProjectGuid": "8f5da5bd-4db6-4cfa-b7e1-3465dac412a6",
+      "DisplayName": "EmployProject",
+      "ColorIndex": 0
+    },
+    "af17a02d-a23b-40db-9b82-8963a4eed145": {
+      "ProjectGuid": "af17a02d-a23b-40db-9b82-8963a4eed145",
+      "DisplayName": "EmployEntity",
+      "ColorIndex": 1
+    },
+    "741294d1-5113-4887-847c-b3ec7b30701a": {
+      "ProjectGuid": "741294d1-5113-4887-847c-b3ec7b30701a",
+      "DisplayName": "EmployDataLayer",
+      "ColorIndex": 2
+    },
+    "bd43ce6c-371e-4710-8135-abb7cbdc0f12": {
+      "ProjectGuid": "bd43ce6c-371e-4710-8135-abb7cbdc0f12",
+      "DisplayName": "Exceptions",
+      "ColorIndex": 3
+    },
+    "b59e99a6-af8d-4536-8ee2-9c209f72c01f": {
+      "ProjectGuid": "b59e99a6-af8d-4536-8ee2-9c209f72c01f",
+      "DisplayName": "EmployBusinessLayer",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
